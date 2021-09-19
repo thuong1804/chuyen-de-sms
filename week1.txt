@@ -1,2 +1,2 @@
 day la file week1.txt 
-thuoc brand week1
+thuoc brand week1 va main
